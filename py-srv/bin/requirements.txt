@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+flask-httpauth
+mysql-connector-python
+pyopenssl
